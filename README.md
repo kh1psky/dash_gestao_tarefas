@@ -36,7 +36,7 @@ Um sistema completo de gerenciamento de tarefas com frontend moderno, backend RE
 
 ```bash
 # Clonar o repositório
-git clone [url-do-repositorio]
+git clone (https://github.com/kh1psky/dash_gestao_tarefas)
 
 # Navegar até a pasta do projeto
 cd dash_gestao_tarefas
